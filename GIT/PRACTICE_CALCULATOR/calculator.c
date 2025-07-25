@@ -8,3 +8,8 @@ int main() {
     printf("Addition: %d\n", add(3, 4));
     return 0;
 }
+
+
+int subtract(int a, int b) {
+    return a - b;
+}
