@@ -2,3 +2,4 @@
 ![Image Alt](https://github.com/Yogeshwari-1610/5260961_YOGESHWARI/blob/442dfc55b253f24959861a6ce89caf7aff35f6b8/AGILE%20CERTIFICATE_5260961-YOGESHWARI%20S.jpg)
 ![Image Alt](https://github.com/Yogeshwari-1610/5260961_YOGESHWARI/blob/c77ffe1d2a878eeef256a9f5d58501583110174a/LINUX_5260961.jpg)
 ![Image Alt](https://github.com/Yogeshwari-1610/5260961_YOGESHWARI/blob/20e5d9472c657d9eee901f5bbd578e0bbc518a43/C%20BEGINNER.jpg)
+![Image Alt](https://github.com/Yogeshwari-1610/5260961_YOGESHWARI/blob/56e6e6d2d8b2818f3496954ff11444955162234a/C%20INTERMEDIATE.jpg)
